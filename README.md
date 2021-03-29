@@ -1,6 +1,6 @@
 ### Hi there,I'm Thuc 👋
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300" height="120" />
 
 - 💻I'm a website Developer
 - 🇻🇳 I’m from Vietnamese 
