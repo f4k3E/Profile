@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300" height="220" />
 
 - 💻I'm a website Developer
-- 🇻🇳 I’m from Vietnamese 
+- I’m from Vietnamese 
 - 🏣Studying Colleges FPT Poly
 - 💔I’m Single 
 - 😪 Love Sleeping
