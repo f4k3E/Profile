@@ -6,7 +6,6 @@
 - I’m from Vietnamese 
 - 🏣Studying Colleges FPT Poly
 - 💔I’m Single 
-- 😪 Love Sleeping
 - 🐘 I'm curently learning Php,Mysql,Js,Framework,Api
 - 😍 I will become Dev ...
 
